@@ -11,11 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-
-
-
-  
-  "homepage": "https://lorenaquintan.github.io/COMP2156",
+  "homepage": "https://lorenaquintan.github.io/COMP2156.git",
   "keywords": [],
   "author": "",
   "license": "ISC",
